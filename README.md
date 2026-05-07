@@ -1,6 +1,6 @@
 # Calculator Services ROS 2
 
-## 📂 Structure du projet
+##  Structure du projet
 
 ```bash
 Calculator-services-
